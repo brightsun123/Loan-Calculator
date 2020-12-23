@@ -7,12 +7,9 @@ Python program that performs calculations for leanrs
 ```
 # General Information
 To learn more about this project, please visit the [Hyperskill Website](https://hyperskill.org/projects/90)
-This Directory has 4 files showing the step-by-step code implementation.
+This directory has 1 file showing the final implementation of the Loan/Credit calculator.
 ```
-credit_stage_one.py
-credit_stage_two.py
-credit_stage_three.py
-credit_stage_four.py
+creditCalculator.py
 ```
 # Running the Porgram
 ```
