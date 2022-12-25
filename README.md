@@ -1,6 +1,6 @@
 # Loan/Credit Calculator
 
-Python program that performs calculations for leanrs
+Python program that performs calculations
 ```
 - Using the Argparse and Sys module
 - Command Line Arguments
